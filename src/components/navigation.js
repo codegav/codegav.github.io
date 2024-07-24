@@ -1,3 +1,5 @@
+import About from './about';
+
 function Navigation() {
 	return(
 	<nav>
