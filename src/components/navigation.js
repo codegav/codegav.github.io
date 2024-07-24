@@ -15,7 +15,10 @@ function Navigation() {
 			</div>
 		</div>
 		<div className = "topdiv">
-			<a className="topmenu" href="#about-section">About Me</a>
+			<a className="topmenu" href="./#home-section">Home</a>
+			<a className="topmenu" href="./#about-section">About Me</a>
+			<a className="topmenu" href="./#projects-section">Projects</a>
+			<a className="topmenu" href="./#resume-section">Resume</a>
 		</div>
     </nav>
 	);
