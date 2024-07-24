@@ -15,7 +15,7 @@ function Navigation() {
 			</div>
 		</div>
 		<div className = "topdiv">
-			<a className="topmenu" href="about-section">About Me</a>
+			<a className="topmenu" href="#about-section">About Me</a>
 		</div>
     </nav>
 	);
