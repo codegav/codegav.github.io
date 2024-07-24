@@ -2,7 +2,7 @@ function Navigation() {
 	return(
 	<nav>
 		<div className = "leftNav">
-			<div className = "name">
+			<div className = "text-green-500">
 				Gavin Fujimoto
 			</div>
 			<div className = "email">
