@@ -1,0 +1,28 @@
+nav {
+  background-color:  #7600bc;
+  color: lightgray;
+  margin-left:-1cm;
+  margin-right:-1cm;
+  margin-top:-1cm;
+  padding-top: 2cm;
+  padding-bottom: 2cm;
+  height: 5mm;
+ }
+ 
+.leftNav {
+  float: left;
+  padding-left: 2cm;
+ }
+ 
+
+.topmenu {
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  text-decoration:none;
+}
+
+.topdiv {
+  float: right;
+  padding-right: 1cm;
+}
