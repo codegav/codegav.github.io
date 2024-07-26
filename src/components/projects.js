@@ -1,6 +1,6 @@
 function Projects() {
 	return(
-	<div className="projects-section">
+	<div className="scroll-mt-24" id="projects-section">
 	<p>
 	Projects Section
 	</p>
